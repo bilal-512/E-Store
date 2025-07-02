@@ -321,5 +321,9 @@ This project is licensed under the ISC License.
 ## 👥 Authors
 
 - Society Management System Team
+- Muhammad Bilal
+- Ab Rehman
+- Aliya Ahsrif
+- Najiba
 
 ## 🙏 Acknowledgments 
